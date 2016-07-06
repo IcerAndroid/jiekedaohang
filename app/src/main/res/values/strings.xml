@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">极客导航</string>
+
+    <array name="navigations">
+        <item>常用网址</item>
+        <item>经典博客</item>
+        <item>工具大全</item>
+        <item>进阶之路</item>
+        <item>音乐视频</item>
+        <item>跳槽恋爱</item>
+        <item>创业社区</item>
+        <item>其他</item>
+    </array>
+
+    <string name="error_title">网络不给力</string>
+    <string name="error_description">请确定网络状态，并重试.</string>
+    <string name="reload_message">重新加载</string>
+</resources>
